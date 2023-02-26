@@ -1,7 +1,7 @@
 package entity;
 
 import java.util.Date;
-
+// 话题实体类
 public class Topic {
 	private int topicId;
 	private String title;
