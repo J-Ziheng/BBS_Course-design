@@ -9,7 +9,7 @@
 
 <h4>开发技术：</h4>
 
-- 使用语言：Java+HTML+JavaScript+SQL+Tomcat
+- 使用语言：Java+HTML+JSP+SQL
 - 数据库：SQLServer
 - B/S结构系统
 
@@ -44,11 +44,18 @@
 - 自动适配功能，适配不同大小的屏幕
 - ...
 
-<h3>3.程序使用说明</h3>
+<h3>3.代码部分结构</h3>
 
-1. java代码的总体结构如下
-
-
+1. java代码的结构如下
+![JavaWeb做BBS(课程设计)_YesIcan2021-CSDN博客_(1) pdf_和另外_3msedge](https://user-images.githubusercontent.com/92208322/221403248-ba70cb56-5352-4504-aad7-f8fe50d39ecb.png)
+---
+2. 中间件和JSP代码的部分结构如下
+![2](https://user-images.githubusercontent.com/92208322/221403448-a86b0a90-4c3c-4a04-96f5-d3ceb642a717.png)
+![3](https://user-images.githubusercontent.com/92208322/221403453-22dd92e2-6293-4564-803e-879617d1b76d.png)
+---
+3. 数据库部分截图如下
+![数据库部分](https://user-images.githubusercontent.com/92208322/221403471-7540ca19-b9f9-4c0e-a2b8-f83406c070ae.png)
+---
 <h3>4.程序使用说明</h3>
 
 1. 自行配置SQLServer，参数可自行更改
