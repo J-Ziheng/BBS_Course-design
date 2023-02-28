@@ -1,7 +1,7 @@
 # BBS_Course-design
 <h2>一、开发说明</h2>
 
-这是一个**极简但功能齐全**的BBS，已于2021秋期开发完成！
+这是一个**极简但功能齐全**的BBS，已于2021秋期开发完成
 
 <h4>开发者：</h4>
 
@@ -9,8 +9,9 @@
 
 <h4>开发技术：</h4>
 
-- 使用语言：Java+HTML+JSP+SQL
+- 使用语言：Java + HTML + JSP + SQL
 - 数据库：SQLServer
+- 开发工具：MyEclipse + Hbuilder5
 - B/S结构系统
 
 <h4>工程量：</h4>
